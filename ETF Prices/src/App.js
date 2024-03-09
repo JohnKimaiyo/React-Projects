@@ -43,7 +43,7 @@ function App() {
 
   return (
     <div className="App">
-<h1>ETF Prices</h1>
+<h1>Commodities  Prices</h1>
       <table>
         <thead>
           <tr>
